@@ -1,0 +1,9 @@
+{
+  "name": "BouncingValheim",
+  "version_number": "1.0.0",
+  "website_url": "https://thunderstore.io",
+  "description": "This Mod makes you and/or enemies bounce inspired by the bouncing yaris meme",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2350"
+  ]
+}
