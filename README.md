@@ -34,6 +34,6 @@ A funny, lightweight **BepInEx mod for Valheim** that adds a squash-and-stretch 
    BepInEx/
    └── plugins/
        └── BouncingValheim/
-           ├── BouncingValheim.dll
+           ├── Nekonekoo.BouncingValheim.dll
            └── Audio/
                └── bounce.wav
